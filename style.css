@@ -1,0 +1,29 @@
+.body{
+    background-image: url(./topography.png);
+    
+}
+
+.card-title-1{
+    font-size: 50px;
+    color: slategray;
+
+}
+
+.card-text{
+    font-size: large;
+}
+
+.card-text-2{
+    font-size: large;
+}
+
+.row-1{
+    size: 300px;
+   
+}
+
+.portfolio-head{
+    font-size: 70px;
+    color: slategray;
+    
+}
