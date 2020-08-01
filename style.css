@@ -23,7 +23,28 @@
 }
 
 .portfolio-head{
-    font-size: 70px;
+    font-size: 60px;
     color: slategray;
     
 }
+
+.col-1{ 
+    margin: 50px;
+}
+
+.col-sm-10{
+    position: absolute;
+}
+
+.form-control{
+    margin: 1rem;
+
+}
+
+.contactHead{
+    color: slategray;
+    padding-left: 15px;
+    padding-top: 15px;
+    font-size: 60px;
+}
+
